@@ -1,0 +1,31 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref;Price/per;Max total price DKK;Comment
+1;U1;LQFP-48_7x7mm_Pitch0.5mm;1;ADAU1701JSTZ;http://www.digikey.dk/product-detail/en/analog-devices-inc/ADAU1701JSTZ-RL/ADAU1701JSTZ-RLCT-ND/3761262?cur=DKK&lang=en;72,9;72,9;locked
+2;C1,C2;C_0805_HandSoldering;2;100p;http://www.digikey.dk/product-detail/en/kemet/C0805C101J5GACTU/399-1122-1-ND/411397;0,68;1,36;
+3;C3,C4,C7,C8,C12,C13;C_0805_HandSoldering;6;10u;http://www.digikey.dk/product-detail/en/murata-electronics-north-america/GRM21BR61A106ME19L/490-8311-1-ND/4380605;0,95;5,7;
+4;C5;C_0805_HandSoldering;1;10n;http://www.digikey.dk/product-detail/en/yageo/CC0805KRX7R9BB103/311-1136-1-ND/303046;0,68;0,68;
+5;C6,C9,C10,C11,C18,C19,C29;C_0805_HandSoldering;7;100n;http://www.digikey.dk/product-detail/en/avx-corporation/08055C104KAT2A/478-1395-1-ND/564427;0,68;4,76;
+6;C14;C_0805_HandSoldering;1;3n3;http://www.digikey.dk/product-detail/en/kemet/C0805C332K5RACTU/399-1153-1-ND/411428;0,68;0,68;
+7;C15;C_0805_HandSoldering;1;56n;http://www.digikey.dk/product-detail/en/samsung-electro-mechanics-america-inc/CL21B563KBCNNNC/1276-2536-1-ND/3890622;0,88;0,88;
+8;C16,C17;C_0805_HandSoldering;2;22p;http://www.digikey.dk/product-detail/en/kemet/C0805C220J5GACTU/399-1113-1-ND/411388;0,68;1,36;
+9;C20,C21,C22,C23;C_0805_HandSoldering;4;47u 4V;http://www.digikey.dk/product-detail/en/kemet/T520A476M004ATE070/399-4714-1-ND/1001085;6,95;27,8;1206
+10;C24,C25,C26,C27;C_0805_HandSoldering;4;5n6;http://www.digikey.dk/product-detail/en/yageo/CC0805KRX7R9BB562/311-1134-1-ND/303044;0,68;2,72;
+11;P1,P5,P6;JST_PH_B3B-PH-K_03x2.00mm_Straight;3;CONN_01X03;http://www.digikey.dk/product-detail/en/jst-sales-america-inc/B3B-PH-K-S(LF)(SN)/455-1705-ND/926612;1,28;3,84;
+12;R1,R2;R_0805_HandSoldering;2;47k;http://www.digikey.dk/product-detail/en/yageo/RC0805JR-0747KL/311-47KARCT-ND/731283;0,68;1,36;
+13;R3,R4,R5,R6;R_0805_HandSoldering;4;18k0;http://www.digikey.dk/product-detail/en/yageo/RC0805FR-0718KL/311-18.0KCRCT-ND/730591;0,68;2,72;1%
+14;R7;R_0805_HandSoldering;1;1k;http://www.digikey.dk/product-detail/en/yageo/RC0805FR-071KL/311-1.00KCRCT-ND/730391;0,68;0,68;
+15;R8,R11,R12,R13,R14;R_0805_HandSoldering;5;10k;http://www.digikey.dk/product-detail/en/yageo/RC0805JR-0710KL/311-10KARCT-ND/731188;0,68;3,4;
+16;R9;R_0805_HandSoldering;1;100R;http://www.digikey.dk/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490;0,68;0,68;
+17;R10;R_0805_HandSoldering;1;470R;http://www.digikey.dk/product-detail/en/yageo/RC0805FR-07470RL/311-470CRCT-ND/730923;0,68;0,68;
+18;U2;SOIC-8_3.9x4.9mm_Pitch1.27mm;1;24AA256;http://www.digikey.dk/product-detail/en/microchip-technology/24AA256-I-SN/24AA256-I-SN-ND/442756;5,13;5,13;locked
+19;R15,R16,R17,R18;R_0805_HandSoldering;4;560R;http://www.digikey.dk/product-detail/en/yageo/RC0805FR-07560RL/311-560CRCT-ND/730983;0,68;2,72;
+20;Q2;SOT-23_Handsoldering;1;MMBT2222A-TP;http://www.digikey.dk/product-detail/en/micro-commercial-co/MMBT2222A-TP/MMBT2222ATPMSCT-ND/717394;0,95;0,95;locked
+21;Q1;SOT-23_Handsoldering;1;ZXTP25040DFH;http://www.digikey.dk/product-search/en?keywords=ZXTP25040DFH;3,92;3,92;locked
+22;P2;Pin_Header_Straight_1x03;1;CONN_01X03;http://www.digikey.dk/product-detail/en/harwin-inc/M20-9990346/952-2264-ND/3728228;0,68;0,68;
+23;P3;Pin_Header_Straight_1x02;1;CONN_01X02;http://www.digikey.dk/product-detail/en/harwin-inc/M20-9990246/952-2262-ND/3728226;0,68;0,68;
+24;Y1;ABLS7M2;1;12.288MHz;http://www.digikey.dk/product-detail/en/abracon-llc/ABLS7M2-12.288MHZ-D-2Y-T/535-12825-1-ND/5135071;2,57;2,57;locked
+25;C28;C_0805_HandSoldering;1;330n 25V;http://www.digikey.dk/product-detail/en/avx-corporation/08053C104KAT2A/478-3755-1-ND/1116453;0,68;0,68;
+26;U3;SOT-223;1;UA78M33CDCYR;http://www.digikey.dk/product-detail/en/texas-instruments/UA78M33CDCYR/296-13424-1-ND/484495;3,92;3,92;locked
+27;P7;JST_PH_B2B-PH-K_02x2.00mm_Straight;1;CONN_01X02;http://www.digikey.dk/product-detail/en/jst-sales-america-inc/B2B-PH-K-S(LF)(SN)/455-1704-ND/926611;1,15;1,15;
+28;REF**,REF**,REF**,REF**;MountingHole_3.2mm_M3_Pad_Via;4;MountingHole_3.2mm_M3_Pad_Via;-;0;0;
+29;P4;Pin_Header_Straight_1x12;1;CONN_01X12;http://www.digikey.dk/product-detail/en/sullins-connector-solutions/PRPC012SAAN-RC/S1011EC-12-ND/2775242;2,23;2,23;
+;;;;;;;156,83;
